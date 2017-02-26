@@ -8,8 +8,8 @@ Stupid Mobile App that reminds you time is passing even when yr away from the in
 
 ###2 Twitter botClock
 [Stupid Twitter Bot that tweets every second](https://twitter.com/secondBotClock)
-![](/_docs/secondBot.png)
+![](/_docs/twitterBot.png)
 
 ###3 One More Second Passed Chrome Extension
 Stupid Google Chrome Extension that alerts you every second.
-![](/_docs/chormeExtension.png)
+![](/_docs/chromeExtension.png)
