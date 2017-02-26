@@ -4,7 +4,7 @@ Stupid projects done for [Stupid Shit No One Needs Hackathon](http://www.stupidh
 
 ###1 timePassing App
 Stupid Mobile App that reminds you time is passing even when yr away from the internet (prototype).
-![](_docs/mobileApp.png)(https://vimeo.com/205720048)
+![](_docs/mobileApp.png)
 
 ###2 Twitter botClock
 Stupid Twitter Bot that tweets every second:
