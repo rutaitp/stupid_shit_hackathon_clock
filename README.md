@@ -1,4 +1,4 @@
-#  time is passing...
+#  how long is a second?
 
 Stupid projects done for [Stupid Shit No One Needs Hackathon](http://www.stupidhackathon.com/)
 
