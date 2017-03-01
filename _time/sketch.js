@@ -29,7 +29,7 @@ function makeTime(emoji, x, y) {
     this.appear = function() {
         image(this.emoji, this.x, this.y)
     }
-
+    // this does nothing, want to build it out. no hackathon time
     this.fall = function() {
         this.y = windowHeight;
     }
