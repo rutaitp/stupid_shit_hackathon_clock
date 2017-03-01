@@ -1,5 +1,7 @@
 #  how long is a second?
 
+Have you ever been so engaged with what you are doing that you lose track of time? We have created, “how long is a second,” a suite of cross-platform tools, a mobile app, Twitter bot and Chrome extension that alert you to every second passing.
+
 Stupid projects done for [Stupid Shit No One Needs Hackathon](http://www.stupidhackathon.com/)
 
 ###1 Time Passing App
